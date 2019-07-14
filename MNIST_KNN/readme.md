@@ -1,0 +1,1 @@
+用PCA将MNIST降至不同的维度，并用KNN(K-nearest Neighbor)对降维后的数据进行分类
